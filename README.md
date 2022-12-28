@@ -9,7 +9,7 @@ A collection of Awesome papers on Pareto Front Learning, Multiple Gradient Desce
  - Conflict-Averse Gradient Descent for Multi-task Learning [[NeurIPS 2021](https://arxiv.org/pdf/2110.14048.pdf)] [[code](https://github.com/Cranial-XIX/CAGrad.git)]
  - Gradient Surgery for Multi-Task Learning [[NeurIPS 2020](https://arxiv.org/pdf/2001.06782.pdf)] [[code](https://github.com/WeiChengTseng/Pytorch-PCGrad.git)]
  - Multi-Task Learning as Multi-Objective Optimization [[NIPS 2018](https://arxiv.org/pdf/1810.04650.pdf)] [[code](https://github.com/isl-org/MultiObjectiveOptimization)]
- - Multi-Task Learning as Multi-Objective Optimization [[ICLR 2021](https://openreview.net/pdf?id=IMPnRXEWpvr)] [[code](https://github.com/AvivNavon/nash-mtl.git)]
+ - Towards Impartial Multi-task Learning [[ICLR 2021](https://openreview.net/pdf?id=IMPnRXEWpvr)] [[code](https://github.com/AvivNavon/nash-mtl.git)]
  <!-- - Fast Line Search for Multi-Task Learning [[arxiv 2021](https://arxiv.org/abs/2110.00874)] -->
  <!-- - A Hybrid 2-stage Neural Optimization for Pareto Front Extraction [[arxiv 2021](https://arxiv.org/abs/2101.11684)] [[code](https://openreview.net/attachment?id=UOj0MV__Cr&name=supplementary_material)] -->
  <!-- - Scalable Unidirectional Pareto Optimality for Multi-Task Learning with Constraints [[arxiv 2021](https://arxiv.org/abs/2110.15442)] -->
