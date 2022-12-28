@@ -22,7 +22,7 @@ A collection of Awesome papers on Pareto Front Learning, Multiple Gradient Desce
  - A Multi-objective / Multi-task Learning Framework Induced by Pareto Stationarity [[ICML 2022](https://proceedings.mlr.press/v162/momma22a.html)]
  
 
-### Pareto Front Learning
+### Pareto Set/Pareto Front Learning
  <!-- - Follow the bisector: a simple method for multi-objective optimization github [[arxiv 2020](https://arxiv.org/abs/2007.06937)] [[code](https://github.com/amkatrutsa/edm)] -->
  - Multi-Objective Learning to Predict Pareto Fronts Using Hypervolume Maximization [[Arxiv 2021](https://arxiv.org/pdf/2102.04523.pdf)] [[code](https://github.com/timodeist/multi_objective_learning)]
  - Self-Evolutionary Optimization for Pareto Front Learning [[Arxiv 2021](https://arxiv.org/pdf/2110.03461.pdf)]
