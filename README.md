@@ -30,7 +30,7 @@ A collection of Awesome papers on Pareto Front Learning, Multiple Gradient Desce
  - Improving Pareto Front Learning via Multi-Sample Hypernetworks [[AAAI 2023](https://arxiv.org/pdf/2212.01130.pdf)] [[code](https://github.com/longhoangphi225/MultiSample-Hypernetworks.git)]
  - Pareto Set Learning for Neural Multi-Objective Combinatorial Optimization [[ICLR 2022](https://arxiv.org/pdf/2203.15386.pdf)][[code](https://github.com/Xi-L/PMOCO.git)]
  - Pareto Set Learning for Expensive Multi-Objective Optimization [[NeurIPS 2022](https://arxiv.org/pdf/2203.15386.pdf)][[code](https://github.com/Xi-L/PSL-MOBO.git)]
- - Scalable Pareto Front Approximation for Deep Multi-Objective Learning [[ICDM 2021](https://128.84.4.13/pdf/2103.13392.pdf)] [[code](https://github.com/ruchtem/cosmos)]
+ - Scalable Pareto Front Approximation for Deep Multi-Objective Learning [[ICDM 2021](https://arxiv.org/pdf/2103.13392.pdf)] [[code](https://github.com/ruchtem/cosmos)]
  - Effcient Continuous Pareto Exploration in Multi-Task Learning [[ICML 2020](http://proceedings.mlr.press/v119/ma20a/ma20a.pdf)] [[code](https://github.com/mit-gfx/ContinuousParetoMTL)]
 
 ### Optimization in Pareto Set
