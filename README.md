@@ -27,7 +27,7 @@ A collection of Awesome papers on Pareto Front Learning, Pareto Multi Task Learn
 
 ### Pareto Set/Pareto Front Learning
 #### 2023
- - A framework for controllable pareto front learning with completed scalarization functions and its applications [[Arxiv 2023](https://arxiv.org/pdf/2302.12487)] [[code](https://github.com/tuantran23012000/PHN-CSF)]
+ - A Framework for Controllable Pareto Front Learning with Completed Scalarization Functions and its Applications [[Arxiv 2023](https://arxiv.org/pdf/2302.12487)] [[code](https://github.com/tuantran23012000/PHN-CSF)]
  - Pareto Manifold Learning: Tackling multiple tasks via ensembles of single-task models [[ICML 2023](https://proceedings.mlr.press/v202/dimitriadis23a.html)] [[code](https://github.com/nik-dim/pamal)]
  - Improving Pareto Front Learning via Multi-Sample Hypernetworks [[AAAI 2023](https://arxiv.org/pdf/2212.01130.pdf)] [[code](https://github.com/longhoangphi225/MultiSample-Hypernetworks.git)]
 #### 2022
